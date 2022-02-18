@@ -1,0 +1,13 @@
+﻿  main.cpp
+E:\3D\ComputerGraphics\assigment0\zero\main.cpp(67,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\3D\ComputerGraphics\assigment0\zero\main.cpp(72,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\3D\ComputerGraphics\assigment0\zero\main.cpp(77,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\3D\ComputerGraphics\assigment0\zero\main.cpp(82,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\3D\ComputerGraphics\assigment0\zero\main.cpp(115,55): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+E:\3D\ComputerGraphics\assigment0\zero\main.cpp(144,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\3D\ComputerGraphics\assigment0\zero\main.cpp(93,9): warning C4101: “i”: 未引用的局部变量
+E:\3D\ComputerGraphics\assigment0\zero\main.cpp(228,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\3D\ComputerGraphics\assigment0\zero\main.cpp(229,30): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\3D\ComputerGraphics\assigment0\zero\main.cpp(232,28): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+  zero.vcxproj -> E:\3D\ComputerGraphics\assigment0\zero\Release\zero.exe
